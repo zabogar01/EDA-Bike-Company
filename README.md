@@ -9,4 +9,7 @@ There are several goals for this bike sharing data analysis:
 1. Convert their current customer and new customer to subscribe as monthly or annual member
 2. Optimize the amount of bike in the station since some station dont have many user while the other is crowded
 
-## WORKFLOW PROCESS 
+
+
+
+
